@@ -2,7 +2,7 @@ import deepsvg.svglib.svg as svg_lib
 from .geom import Bbox, Point
 import math
 import numpy as np
-import IPython.display as ipd
+# import IPython.display as ipd
 from moviepy.editor import ImageClip, concatenate_videoclips, ipython_display
 
 

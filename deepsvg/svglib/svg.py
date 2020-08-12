@@ -3,7 +3,7 @@ from .geom import *
 from xml.dom import expatbuilder
 import torch
 from typing import List, Union
-import IPython.display as ipd
+# import IPython.display as ipd
 import cairosvg
 from PIL import Image
 import io
